@@ -69,7 +69,8 @@ RTL realization Output:
 
 
 RTL
-![graph](https://github.com/Gobikakannan/exp-1/assets/163496346/1d3b5849-3c55-4319-b124-5d3e54aff13b)
+![graph 1](https://github.com/Gobikakannan/exp-1/assets/163496346/d01a8cb9-2989-46d5-8278-b1eb3095666a)
+
 
 
 Result:
