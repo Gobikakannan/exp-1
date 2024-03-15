@@ -59,11 +59,12 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 Developed by: Gobika kannan Registered Number:212222050013
 
-Logic symbol & Truthtable
-![logic gate](https://github.com/Gobikakannan/exp-1/assets/163496346/54101b4d-a022-462a-93d7-6149369831ac)
+Logic symbol & truthtable:
 
 
 RTL realization Output:
+![logic gate](https://github.com/Gobikakannan/exp-1/assets/163496346/54101b4d-a022-462a-93d7-6149369831ac)
+
 
 RTL
 
