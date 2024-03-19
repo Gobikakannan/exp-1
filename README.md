@@ -54,6 +54,8 @@ Procedure
 5.For different input combinations generate the timing diagram.
 
 PROGRAM
+![code](https://github.com/Gobikakannan/exp-1/assets/163496346/a2a43c3a-8b6c-4e0b-a401-d6f959df51ff)
+
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
